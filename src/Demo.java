@@ -3,7 +3,7 @@ public class Demo {
         MediaPlayer mediaPlayer = new AudioPlayer();
 
         mediaPlayer.play("mp4","asdasdas.mp4");
-
+        System.out.println("hello git");
 
     }
 }
